@@ -1,2 +1,4 @@
 # OpenLibs
-Collect some open source  C++ Libs and normalize them.
+收集一些我需要的开源库，并标准化他们。
+如果某些库侵犯了您的权益，请联系我，928277452@qq.com，我会立即更改或撤销！
+同时我会在库文件中加上作者来源，以尊重作者的劳动成果，请作者审查！
